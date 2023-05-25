@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-25T17:09:05 PST" name="Default suite" finished-at="2023-05-25T17:09:24 PST" duration-ms="18625">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T17:09:05 PST" name="Default test" finished-at="2023-05-25T17:09:24 PST" duration-ms="18625">
+      <class name="test.gesturesAndAnnotationTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:05 PST" name="beforeSuite" finished-at="2023-05-25T17:09:05 PST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:05 PST" name="beforeTest" finished-at="2023-05-25T17:09:05 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:05 PST" name="beforeClass" finished-at="2023-05-25T17:09:14 PST" duration-ms="9052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="dragFromToForDurationDemo()[pri:1, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:14 PST" name="dragFromToForDurationDemo" finished-at="2023-05-25T17:09:18 PST" duration-ms="3392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragFromToForDurationDemo -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:14 PST" name="beforeMethod" finished-at="2023-05-25T17:09:14 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="swipeDemo()[pri:2, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:18 PST" name="swipeDemo" finished-at="2023-05-25T17:09:20 PST" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swipeDemo -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:18 PST" name="beforeMethod" finished-at="2023-05-25T17:09:18 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="scrollDemo()[pri:3, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:20 PST" name="scrollDemo" finished-at="2023-05-25T17:09:21 PST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDemo -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:20 PST" name="beforeMethod" finished-at="2023-05-25T17:09:20 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:21 PST" name="beforeMethod" finished-at="2023-05-25T17:09:21 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="doubleTapDemo()[pri:4, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:21 PST" name="doubleTapDemo" finished-at="2023-05-25T17:09:23 PST" duration-ms="1833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doubleTapDemo -->
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:23 PST" name="closeTest" finished-at="2023-05-25T17:09:24 PST" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:24 PST" name="afterMethod" finished-at="2023-05-25T17:09:24 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:24 PST" name="afterTest" finished-at="2023-05-25T17:09:24 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="closeExtentReports()[pri:0, instance:test.gesturesAndAnnotationTest@6f204a1a]" started-at="2023-05-25T17:09:24 PST" name="closeExtentReports" finished-at="2023-05-25T17:09:24 PST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeExtentReports -->
+      </class> <!-- test.gesturesAndAnnotationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
